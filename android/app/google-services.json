@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546635066871",
+    "project_id": "todo-application-by-saa",
+    "storage_bucket": "todo-application-by-saa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546635066871:android:8271de73e0efb4ed9752f2",
+        "android_client_info": {
+          "package_name": "com.example.hackathon1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2cx4Rj6U9L4VjZxRODf81JPZoTysLZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
